@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amizero Miraaj Desire
-- - 🌱 I’m currently System admin , Network Admin , Azure Ad Administrator and Cyber security
+- - 🌱 I’m currently System admin , Network Admin , Azure Ad Administrator, Devops,DevsecOps and Cyber security
 
 <!---
 amizeromir/amizeromir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
